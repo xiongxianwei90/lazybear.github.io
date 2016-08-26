@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.lazy-dev.com/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2016-08-22T09:55:24.787Z</updated>
-  <id>http://www.lazy-dev.com/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>Lazy Bear</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.lazy-dev.com/2016/08/22/hello-world/"/>
-    <id>http://www.lazy-dev.com/2016/08/22/hello-world/</id>
+    <link href="http://yoursite.com/2016/08/22/hello-world/"/>
+    <id>http://yoursite.com/2016/08/22/hello-world/</id>
     <published>2016-08-22T09:55:24.787Z</published>
     <updated>2016-08-22T09:55:24.787Z</updated>
     
