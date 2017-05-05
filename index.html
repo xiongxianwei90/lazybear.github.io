@@ -233,8 +233,8 @@
 <ul>
 <li>注 gradle 面板中也有 bintrayUpload 但是通过gradle 面板命令上传后，找不到pom 文件。</li>
 </ul>
-<p>###3 上传成功，打开bintray 账号<br>如2.7图 Owned Repositories —&gt; Maven —&gt; 你的 Package<br><img src="/img/20170505_5.png" alt="cmd-markdown-logo"><br>有pom 配置说明你已经上传成功了</p>
-<p>###4 在项目中添加依赖<br>4.1 因为先还处于本地账号中，还未提交至bintray 开源库所以代码中还需设置你账号的Maven 链接<br><img src="/img/20170505_6.png" alt="cmd-markdown-logo"><br>项目 build.gradle 设置 Maven 链接<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">repositories &#123;</div><div class="line">    maven &#123;</div><div class="line">        url &quot;https://（你的 organizations）.bintray.com/maven&quot;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<h3 id="3-上传成功，打开bintray-账号"><a href="#3-上传成功，打开bintray-账号" class="headerlink" title="3. 上传成功，打开bintray 账号"></a>3. 上传成功，打开bintray 账号</h3><p>如2.7图 Owned Repositories —&gt; Maven —&gt; 你的 Package<br><img src="/img/20170505_5.png" alt="cmd-markdown-logo"><br>有pom 配置说明你已经上传成功了</p>
+<h3 id="4-在项目中添加依赖"><a href="#4-在项目中添加依赖" class="headerlink" title="4. 在项目中添加依赖"></a>4. 在项目中添加依赖</h3><p>4.1 因为先还处于本地账号中，还未提交至bintray 开源库所以代码中还需设置你账号的Maven 链接<br><img src="/img/20170505_6.png" alt="cmd-markdown-logo"><br>项目 build.gradle 设置 Maven 链接<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">repositories &#123;</div><div class="line">    maven &#123;</div><div class="line">        url &quot;https://（你的 organizations）.bintray.com/maven&quot;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
 
       
     </div>
