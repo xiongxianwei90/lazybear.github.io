@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.lazy-dev.com/"/>
   <updated>2017-05-05T05:28:56.634Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.lazy-dev.com/</id>
   
   <author>
     <name>Lazy Bear</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>将Gradle项目发布到maven仓库</title>
-    <link href="http://yoursite.com/2017/05/05/%E5%B0%86Gradle%E9%A1%B9%E7%9B%AE%E5%8F%91%E5%B8%83%E5%88%B0maven%E4%BB%93%E5%BA%93/"/>
-    <id>http://yoursite.com/2017/05/05/将Gradle项目发布到maven仓库/</id>
+    <link href="http://www.lazy-dev.com/2017/05/05/%E5%B0%86Gradle%E9%A1%B9%E7%9B%AE%E5%8F%91%E5%B8%83%E5%88%B0maven%E4%BB%93%E5%BA%93/"/>
+    <id>http://www.lazy-dev.com/2017/05/05/将Gradle项目发布到maven仓库/</id>
     <published>2017-05-05T04:14:26.000Z</published>
     <updated>2017-05-05T05:28:56.634Z</updated>
     
@@ -43,8 +43,8 @@
   
   <entry>
     <title>welcome</title>
-    <link href="http://yoursite.com/2017/05/05/welcome/"/>
-    <id>http://yoursite.com/2017/05/05/welcome/</id>
+    <link href="http://www.lazy-dev.com/2017/05/05/welcome/"/>
+    <id>http://www.lazy-dev.com/2017/05/05/welcome/</id>
     <published>2017-05-05T03:22:21.000Z</published>
     <updated>2017-05-05T03:43:18.795Z</updated>
     
